@@ -30,7 +30,7 @@ You will now install Naoqi packages for rviz. Some of them are distributed throu
     sudo apt-get install ros-indigo-rviz ros-indigo-naoqi-bridge
     ros-indigo-naoqi-bridge-msgs ros-indigo-pepper-robot
     ros-indigo-pepper-description ros-indigo-pepper-meshes
-    ros-indigo-octomaps-msgs
+    ros-indigo-octomap-msgs
 
 ####Custom build packages
 
